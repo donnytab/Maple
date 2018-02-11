@@ -1,0 +1,27 @@
+name: Maple
+description: Maple is a Jekyll theme for GitHub Pages
+
+url: https://donnytab.github.io
+
+baseurl: /Maple
+
+github: 'donnytab/Maple'
+gitlab: ''
+
+gaaccount: ''
+
+comments: true
+
+isso: ''
+
+disqus: ''
+
+permalink: /:year/:month/:title
+paginate: 3
+
+highlight: true
+highlighter: rouge
+markdown: kramdown
+gems: ['jekyll-paginate']
+
+exclude: ['README.md', 'LICENSE']
